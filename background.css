@@ -1,0 +1,10 @@
+h3{
+    /* background:linear-gradient(to right,#000, red 50%, blue, green ) ; */
+    background: radial-gradient(circle, #000, red, #fff, green), url(./istockphoto-1591660312-1024x1024.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-blend-mode: screen;
+
+}

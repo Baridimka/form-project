@@ -1,0 +1,39 @@
+/* h1{
+    display: none;
+    /* visibility: hidden; 
+    background-color: rgb(15, 101, 176);
+    /* margin-top: 20rem; 
+}
+
+i{
+    display: block;
+}*/
+
+a{
+    text-decoration: none;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    background-color: hotpink;
+    /* gap: 1rem; */
+    justify-content: space-between; 
+    height: 50vh;
+    align-items: ;
+}
+
+.first{
+    background-color: aqua;
+    flex: 1;
+}
+
+.second{
+    background-color: bisque;
+    flex: 1 ;
+}
+
+.third{
+    background-color: chartreuse;
+    flex: 1;
+}
